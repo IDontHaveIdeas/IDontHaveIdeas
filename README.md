@@ -9,7 +9,7 @@ Made in Aveiro , :portugal:
 # Languages and Tools:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&langs_count=8&theme=radical)](https://github.com/IDontHaveIdeas/Readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&langs_count=3&theme=radical)](https://github.com/IDontHaveIdeas/Readme)
 ![IDontHaveIdeas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&theme=radical)
 
 
