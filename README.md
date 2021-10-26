@@ -1,8 +1,8 @@
 # Hello World, I'm IDontHaveIdeas
 
-Studing in IPLeiria
+Computer Science Student at IPLeiria
 
-Made in Aveiro
+Made in Aveiro , :portugal:
 # About Me:
 <a href="https://github.com/IDontHaveIdeas"><img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://twitter.com/NTengoIdeas"> <img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://codepen.io/idonthaveideas"> <img height=25 src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
