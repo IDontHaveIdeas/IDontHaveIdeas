@@ -10,8 +10,12 @@ Made in Aveiro , :portugal:
   
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&langs_count=5&theme=aura_dark)](https://github.com/IDontHaveIdeas)
-![IDontHaveIdeas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&include_all_commits=true&theme=aura_dark)
+
+<div>
+  <a href="https://github.com/IDontHaveIdeas"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&layout=compact&langs_count=16&theme=dracula">
+</div>
 
 
 <img height=25 src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img height=25 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img height=25 src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
