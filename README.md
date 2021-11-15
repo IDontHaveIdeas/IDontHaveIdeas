@@ -10,7 +10,7 @@ Made in Aveiro , :portugal:
   
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&langs_count=3&theme=aura_dark)](https://github.com/IDontHaveIdeas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&langs_count=5&theme=aura_dark)](https://github.com/IDontHaveIdeas)
 ![IDontHaveIdeas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&include_all_commits=true&theme=aura_dark)
 
 
