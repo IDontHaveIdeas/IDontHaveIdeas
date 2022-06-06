@@ -29,7 +29,7 @@
     <summary>:zap: GitHub Stats</summary>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&theme=dracula" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&layout=compact&theme=dracula" />
 </details>
 
 
