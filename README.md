@@ -1,21 +1,24 @@
-# Hello World, I'm IDontHaveIdeas
+# Hello there I'm Jorge👋
 
-Computer Science Student at IPLeiria
+## I am a student and technology enthusiast! 🖥️
+- 👨‍🎓 I'm currently studying at the Polytechnic Institute of Leiria in Computer Engineering 🇵🇹
+- 🌱 My currently goal is to help other people
+- 🥅 2022 Goal: Learn Tauri
+- ⚡ Fun fact: My dream job is to work on a Space Agency
 
-Made in Aveiro , :portugal:
-# About Me:
-<a href="https://github.com/IDontHaveIdeas"><img height=25 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://twitter.com/NTengoIdeas"> <img height=25 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://codepen.io/idonthaveideas"> <img height=25 src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-
-# Languages and Tools:
-  
-  
-  
-
-<div>
-  <a href="https://github.com/IDontHaveIdeas"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&layout=compact&langs_count=16&theme=dracula">
-</div>
+### Connect With Me
 
 
-<img height=25 src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img height=25 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  <img height=25 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img height=25 src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+
+<img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+
+<br>
+<br>
+<details>
+    <summary>:zap: GitHub Stats</summary>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IDontHaveIdeas&show_icons=true&theme=dracula" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDontHaveIdeas&layout=compact" />
+</details>
