@@ -1,7 +1,7 @@
 # Hello there I'm Jorge👋
 
 ## I am a student and technology enthusiast! 🖥️
-- 👨‍🎓 I'm currently studying at the Polytechnic Institute of Leiria in Computer Engineering 🇵🇹
+- 👨‍🎓 I'm studying for a graduation in Computer Science in the Polytechnic Institute of Leiria 🇵🇹
 - 🌱 My currently goal is to help other people
 - 🥅 2022 Goal: Learn Tauri
 - ⚡ Fun fact: My dream job is to work on a Space Agency
