@@ -1,12 +1,12 @@
 # Hello there I'm Jorge👋
 
-## I am a student and technology enthusiast! 🖥️
+## I am a student and technology enthusiast! 🖥️ 
 - 👨‍🎓 I'm studying for a graduation in Computer Science in the Polytechnic Institute of Leiria 🇵🇹
-- 🌱 My currently goal is to help other people
-- 🥅 2022 Goal: Learn Tauri
+- 🌱 My current goal is to be better and try to find my passion
+- 🥅 2022 Goal: Learn Tauri and find the area i want to specialize
 - ⚡ Fun fact: My dream job is to work on a Space Agency
 
-### Connect With Me 🔗
+### 🔗 Connect With Me 
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
@@ -14,7 +14,7 @@
 
 ---
 
-### Languages and Tools 🐱‍💻
+### 🐱‍💻 Languages and Tools 
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
