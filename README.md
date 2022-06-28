@@ -3,7 +3,7 @@
 ## I am a student and technology enthusiast! 🖥️ 
 - 👨‍🎓 I'm studying for a graduation in Computer Science in the Polytechnic Institute of Leiria 🇵🇹
 - 🌱 My current goal is to be better and try to find my passion
-- 🥅 2022 Goal: Learn Tauri and find the area i want to specialize
+- 🥅 2022 Goal: Learn and create my first portfolio
 - ⚡ Fun fact: My dream job is to work on a Space Agency
 
 ### 🔗 Connect With Me 
